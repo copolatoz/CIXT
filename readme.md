@@ -1,5 +1,5 @@
 
-COMING SOON! ^^
+COMING SOON! ^^ - SEPT 2018
 
 Kombinasi Framework CI + ExtJs
 ----------------------------------------------------------------------
@@ -13,7 +13,9 @@ Versi ExtJS: 4.2 (Sekarang sdh mau versi 7 - lagi cek kemungkinan versi gratis y
 Belum ada Manual Book khusus,
 Jika sudah terbiasa pakai ExtJS dan Codeigniter akan sangat mudah memakai aplikasi ini
 
-
+.
+.
+.
 
 Team WePOS ^^
 
